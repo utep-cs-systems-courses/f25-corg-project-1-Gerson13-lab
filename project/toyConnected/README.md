@@ -1,16 +1,11 @@
-#lab_2 - toy switch
+#lab_2 - ToyConnected
 
-#SWITCH 1: Toggles state 1. The red and green LED flash on and off on one
- second intervals.
+To run, simply type "make clean" and then "make load" while having the MSP430 connected.
 
-#SWITCH 2: This switch toggles state 2. This will make the buzzer go off.
-
-#SWITCH 3: This switch toggles state 3. The buzzer will beep in one second
- intervals.
-
-#SWITCH 4: This switch toggles state 4. This illuminates the green LED and
- makes the red LED dance.
-
+SWITCH 1: Makes the red and green led blink on and off in one second intervals.
+SWITCH 2: Makes the speaker go off.
+SWITCH 3: Makes speaker beep in one second intervals.
+SWITCH 4: Keeps the green led on while blinking the red led.
 
 
 -Gerson Cruz
